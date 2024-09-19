@@ -260,6 +260,11 @@ textarea {
       font-weight: 700;
       font-size: 2.8rem;
       margin-bottom: 3rem; }
+      .about__content-title2 {
+        font-weight: 700;
+        font-size: 2.8rem;
+        margin-top: 3rem;
+        margin-bottom: 3rem; }
       @media only screen and (max-width: 37.5em) {
         .about__content-title {
           font-size: 2.4rem; } }
@@ -272,6 +277,9 @@ textarea {
       .about__content-details-para--hl {
         font-weight: 700;
         margin: 0 3px; }
+        .about__content-details-para a{
+          color : blue;
+        }
       .about__content-details-para:last-child {
         margin-bottom: 4rem; }
 
